@@ -1,7 +1,7 @@
 React + Vite
 
 Projenin çalışır hali;
-https://context-api-ve-routing-qdwguq3sd-esmomers-projects.vercel.app/login-information
+context-api-ve-routing-h5p3hu5gy-esmomers-projects.vercel.app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
